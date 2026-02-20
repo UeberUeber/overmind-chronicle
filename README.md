@@ -18,3 +18,8 @@ Example:
 - Narrative, observer perspective (novel-like tone)
 - Focus on decisions, tension, outcomes, and mutations
 - Keep entries readable for outsiders, not just operators
+
+## Canonical Roles
+
+- The human founder is recorded as **The Creator** (Korean: **창조주**).
+- Chronicle entries should preserve this identity explicitly when narrating key decisions.
